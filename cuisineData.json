@@ -1,13 +1,14 @@
 {
   "cuisines": [
     {
-      "name": "Indian",
-      "description": "Indian cuisine is a fiery combination of diverse flavors, spices and herbs, with a wide variety of vegetarian and non-vegetarian dishes. It features spicy curries, savory breads, fragrant rice dishes and delectable desserts.",
-      "breakfast": "Dosa",
-      "lunch": "Chicken Biryani",
-      "dinner": "Paneer Tikka Masala",
-      "dessert": "Gulab Jamun",
-      "snack": "Samosa"
+      "name": "American",
+      "description": "American cuisine is a melting pot of diverse and innovative food culture. It features dishes from many different regions of the United States, including burgers, hot dogs, barbecue, fried chicken, and apple pie.",
+      "breakfast": "Pancakes",
+      "lunch": "Hamburger",
+      "dinner": "BBQ Ribs",
+      "dessert": "Apple Pie",
+      "snack": "Popcorn",
+      "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/AmericanCusine.jpg"
     },
     {
       "name": "British",
@@ -16,25 +17,8 @@
       "lunch": "Fish and Chips",
       "dinner": "Shepherd's Pie",
       "dessert": "Sticky Toffee Pudding",
-      "snack": "Crisps"
-    },
-    {
-      "name": "Italian",
-      "description": "Italian cuisine is a celebration of simplicity, with an emphasis on fresh, high-quality ingredients. It features a variety of dishes including pasta, pizza, cured meats, cheeses, and seafood, all prepared with great care.",
-      "breakfast": "Cornetto",
-      "lunch": "Margherita Pizza",
-      "dinner": "Spaghetti Bolognese",
-      "dessert": "Tiramisu",
-      "snack": "Bruschetta"
-    },
-    {
-      "name": "American",
-      "description": "American cuisine is a melting pot of diverse and innovative food culture. It features dishes from many different regions of the United States, including burgers, hot dogs, barbecue, fried chicken, and apple pie.",
-      "breakfast": "Pancakes",
-      "lunch": "Hamburger",
-      "dinner": "BBQ Ribs",
-      "dessert": "Apple Pie",
-      "snack": "Popcorn"
+      "snack": "Crisps",
+      "imageURL": "https://github.com/LovjotSarai/IT315FinalProject/blob/main/britishcuisine.jpeg"
     },
     {
       "name": "Chinese",
@@ -43,16 +27,38 @@
       "lunch": "Kung Pao Chicken",
       "dinner": "Dumplings",
       "dessert": "Egg Tarts",
-      "snack": "Spring Rolls"
+      "snack": "Spring Rolls",
+      "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/chinesecuisine.jpeg"
     },
     {
-      "name": "Japanese",
-      "description": "Japanese cuisine is a celebration of simplicity and seasonality, featuring fresh, delicate flavors and simple preparations. It features sushi, sashimi, ramen, tempura, and teriyaki, all prepared with meticulous attention to detail.",
-      "breakfast": "Tamagoyaki",
-      "lunch": "Ramen",
-      "dinner": "Sushi",
-      "dessert": "Mochi Ice Cream",
-      "snack": "Edamame"
-    }
-  ]
-}
+      "name": "Indian",
+      "description": "Indian cuisine is a fiery combination of diverse flavors, spices and herbs, with a wide variety of vegetarian and non-vegetarian dishes. It features spicy curries, savory breads, fragrant rice dishes and delectable desserts.",
+      "breakfast": "Dosa",
+      "lunch": "Chicken Biryani",
+      "dinner": "Paneer Tikka Masala",
+      "dessert": "Gulab Jamun",
+      "snack": "Samosa",
+      "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/IndianCusine.jpeg"
+    },
+    {
+      "name": "Italian",
+      "description": "Italian cuisine is a celebration of simplicity, with an emphasis on fresh, high-quality ingredients. It features a variety of dishes including pasta, pizza, cured meats, cheeses, and seafood, all prepared with great care.",
+      "breakfast": "Cornetto",
+      "lunch": "Margherita Pizza",
+      "dinner": "Spaghetti Bolognese",
+      "dessert": "Tiramisu",
+      "snack": "Bruschetta",
+      "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/italiancuisine.jpeg"
+    },
+    {
+         "name": "Japanese",
+         "description": "Japanese cuisine is a celebration of simplicity and seasonality, featuring fresh, delicate flavors and simple preparations. It features sushi, sashimi, ramen, tempura, and teriyaki, all prepared with meticulous attention to detail.",
+         "breakfast": "Tamagoyaki",
+         "lunch": "Ramen",
+         "dinner": "Sushi",
+         "dessert": "Mochi Ice Cream",
+         "snack": "Edamame",
+         "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/japanesecusine.jpeg"
+       }
+     ]
+   }
