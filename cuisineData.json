@@ -9,7 +9,7 @@
       "dessert": "Apple Pie",
       "snack": "Popcorn",
       "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/AmericanCusine.jpg",
-      "flagURL": "https://www.countryflags.io/US/flat/64.png",
+      "flagURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/imageOfAmerica.jpeg",
       "wikiURL": "https://en.wikipedia.org/wiki/American_cuisine"
     },
     {
@@ -34,7 +34,7 @@
       "dessert": "Egg Tarts",
       "snack": "Spring Rolls",
       "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/chinesecuisine.jpeg",
-      "flagURL": "https://www.countryflags.io/CN/flat/64.png",
+      "flagURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/China.jpeg",
       "wikiURL": "https://en.wikipedia.org/wiki/Chinese_cuisine"
       
     },
@@ -47,7 +47,7 @@
       "dessert": "Gulab Jamun",
       "snack": "Samosa",
       "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/IndianCusine.jpeg",
-      "flagURL": "https://www.countryflags.io/IN/flat/64.png",
+      "flagURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/India.jpeg",
       "wikiURL": "https://en.wikipedia.org/wiki/Indian_cuisine"
       
     },
@@ -60,7 +60,7 @@
       "dessert": "Tiramisu",
       "snack": "Bruschetta",
       "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/italiancuisine.jpeg",
-      "flagURL": "https://www.countryflags.io/IT/shiny/64.png",
+      "flagURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/Italy.jpeg",
       "wikiURL": "https://en.wikipedia.org/wiki/Italian_cuisine"
       
     },
@@ -73,7 +73,7 @@
     "dessert": "Mochi Ice Cream",
     "snack": "Edamame",
     "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/japanesecusine.jpeg",
-    "flagURL": "https://www.countryflags.io/JP/shiny/64.png",
+    "flagURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/japan-map.jpg",
     "wikiURL": "https://en.wikipedia.org/wiki/Japanese_cuisine"  
      }
   ]
