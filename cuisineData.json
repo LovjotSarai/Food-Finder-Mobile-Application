@@ -8,7 +8,8 @@
       "dinner": "BBQ Ribs",
       "dessert": "Apple Pie",
       "snack": "Popcorn",
-      "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/AmericanCusine.jpg"
+      "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/AmericanCusine.jpg",
+      "flagURL": "https://www.countryflags.io/US/flat/64.png"
     },
     {
       "name": "British",
@@ -18,7 +19,8 @@
       "dinner": "Shepherd's Pie",
       "dessert": "Sticky Toffee Pudding",
       "snack": "Crisps",
-      "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/britishcuisine.jpeg"
+      "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/britishcuisine.jpeg",
+      "flagURL": "https://www.countryflags.io/GB/flat/64.png"
     },
     {
       "name": "Chinese",
@@ -28,7 +30,8 @@
       "dinner": "Dumplings",
       "dessert": "Egg Tarts",
       "snack": "Spring Rolls",
-      "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/chinesecuisine.jpeg"
+      "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/chinesecuisine.jpeg",
+      "flagURL": "https://www.countryflags.io/CN/flat/64.png"
     },
     {
       "name": "Indian",
@@ -38,7 +41,8 @@
       "dinner": "Paneer Tikka Masala",
       "dessert": "Gulab Jamun",
       "snack": "Samosa",
-      "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/IndianCusine.jpeg"
+      "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/IndianCusine.jpeg",
+      "flagURL": "https://www.countryflags.io/IN/flat/64.png"
     },
     {
       "name": "Italian",
@@ -48,17 +52,21 @@
       "dinner": "Spaghetti Bolognese",
       "dessert": "Tiramisu",
       "snack": "Bruschetta",
-      "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/italiancuisine.jpeg"
+      "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/italiancuisine.jpeg",
+      "flagURL": "https://www.countryflags.io/IT/shiny/64.png"
     },
     {
-         "name": "Japanese",
-         "description": "Japanese cuisine is a celebration of simplicity and seasonality, featuring fresh, delicate flavors and simple preparations. It features sushi, sashimi, ramen, tempura, and teriyaki, all prepared with meticulous attention to detail.",
-         "breakfast": "Tamagoyaki",
-         "lunch": "Ramen",
-         "dinner": "Sushi",
-         "dessert": "Mochi Ice Cream",
-         "snack": "Edamame",
-         "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/japanesecusine.jpeg"
-       }
-     ]
-   }
+    "name": "Japanese",
+    "description": "Japanese cuisine is a celebration of simplicity and seasonality, featuring fresh, delicate flavors and simple preparations. It features sushi, sashimi, ramen, tempura, and teriyaki, all prepared with meticulous attention to detail.",
+    "breakfast": "Tamagoyaki",
+    "lunch": "Ramen",
+    "dinner": "Sushi",
+    "dessert": "Mochi Ice Cream",
+    "snack": "Edamame",
+    "imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/japanesecusine.jpeg",
+    "flagURL": "https://www.countryflags.io/JP/shiny/64.png"
+     }
+  ]
+}
+
+
