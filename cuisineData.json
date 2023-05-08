@@ -10,7 +10,7 @@
 			"imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/AmericanCusine.jpg",
 			"flagURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/imageOfAmerica.jpeg",
 			"wikiURL": "https://en.wikipedia.org/wiki/American_cuisine",
-			"spicelevel": "6"
+			"spicelevel": "4"
 		},
 		{
 			"name": "British",
@@ -23,7 +23,7 @@
 			"imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/britishcuisine.jpeg",
 			"flagURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/britianMap.png",
 			"wikiURL": "https://en.wikipedia.org/wiki/British_cuisine",
-			"spicelevel": "3"
+			"spicelevel": "2"
 
 		},
 		{
@@ -37,7 +37,7 @@
 			"imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/chinesecuisine.jpeg",
 			"flagURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/China.jpeg",
 			"wikiURL": "https://en.wikipedia.org/wiki/Chinese_cuisine",
-			"spicelevel": "7"
+			"spicelevel": "5"
 
 		},
 		{
@@ -51,7 +51,7 @@
 			"imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/IndianCusine.jpeg",
 			"flagURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/India.jpeg",
 			"wikiURL": "https://en.wikipedia.org/wiki/Indian_cuisine",
-			"spicelevel": "9"
+			"spicelevel": "8"
 
 		},
 		{
@@ -65,7 +65,7 @@
 			"imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/italiancuisine.jpeg",
 			"flagURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/Italy.jpeg",
 			"wikiURL": "https://en.wikipedia.org/wiki/Italian_cuisine",
-			"spicelevel": "6"
+			"spicelevel": "5"
 
 		},
 		{
@@ -79,7 +79,7 @@
 			"imageURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/japanesecusine.jpeg",
 			"flagURL": "https://raw.githubusercontent.com/LovjotSarai/IT315FinalProject/main/japan-map.jpg",
 			"wikiURL": "https://en.wikipedia.org/wiki/Japanese_cuisine",
-			"spicelevel": "7"
+			"spicelevel": "6"
 		}
 	]
 }
