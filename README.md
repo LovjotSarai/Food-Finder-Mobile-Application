@@ -27,6 +27,6 @@ With a responsive design, the app ensures a consistent experience across all iOS
 To set up the project environment, execute the following steps:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-open YourProject.xcworkspace // Or .xcodeproj if not using a dependency manager
+git clone https://github.com/LovjotSarai/Food-Finder-Mobile-Application
+cd Food-Finder-Mobile-Application
+open
